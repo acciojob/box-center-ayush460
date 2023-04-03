@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.box{
+	border:2px solid black;
+	width:200px;
+	height:200px;
+	background:#AED7E6;
+}
+ #text{
+	 padding: 70px 0;
+/*   border: 3px solid green; */
+   text-align: center;
+	 color:#8C3597;
+	 
+}
